@@ -104,4 +104,4 @@ touchEnd(e,index) { // 手指离开屏幕时触发
 
 ## 完整代码
 
-[GitHub：uniapp实现用户左右滑动切换题目功能](https://github.com/Joye-xiao/uniapp-demo/tree/master/GitHub-uniapp)
+[GitHub：uniapp实现用户左右滑动切换题目功能](https://github.com/Joye-xiao/uniapp-demo/tree/master/slide-the-answer-demo)

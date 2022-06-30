@@ -2,15 +2,15 @@
 
 [TOC]
 
-## 需求：
+## 需求
 
 - 做一个答题功能，用户在屏幕上左右滑动，切换到上一题或下一题。
 
-## 思路：
+## 思路
 
 - 监听触摸事件 touchstart 和 touchend，根据相减的距离的正负判断是左滑（上一题）还是右滑（下一题）
 
-## 实现：
+## 实现
 
 > 页面：设置滑动页面的区域；用 v-for 遍历数据；用 v-if 控制展示隐藏题目；给数据绑定触摸事件
 
@@ -102,7 +102,6 @@ touchEnd(e,index) { // 手指离开屏幕时触发
 
 
 
-## 完整代码：
+## 完整代码
 
-
-
+[GitHub：uniapp实现用户左右滑动切换题目功能](https://github.com/Joye-xiao/uniapp-demo/tree/master/GitHub-uniapp)
